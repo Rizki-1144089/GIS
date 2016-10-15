@@ -15,7 +15,7 @@ nah sedangkan Geografi itu artinya adalah Bentuk Bumi.
 Jika kita satukan artinya maka yang dimaksud dengan Sistem Informasi Gerografi adalah Sistem informasi khusus yang mengelola sesuatu yang memiliki informasi spasial(ruang)
 
 <p align="center">
-  <img src="../../img/Kordinat.png">
+  <img src="../../img/Kordinat.PNG">
 </p>
 
 Oke sekarang kita bahas apa itu kordinat,kordinat itu menurut KBBI adalah Bilangan yang digunakan untuk menunjukkan lokasi di suatu titik dalam garis, permukaan, atau ruang.
